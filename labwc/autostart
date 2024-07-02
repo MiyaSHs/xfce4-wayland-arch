@@ -1,0 +1,7 @@
+# Example autostart file
+/usr/lib64/xdg-desktop-portal-wlr
+
+gsettings set org.gnome.desktop.interface cursor-theme 'Chicago95_Animated_Hourglass_Cursors'
+gsettings set org.gnome.desktop.interface icon-theme 'Chicago95'
+
+waypaper --restore
