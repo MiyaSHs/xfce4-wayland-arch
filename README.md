@@ -8,3 +8,5 @@ run makepkg -si in all folders except labwc, put that in your .config folder, th
 **IMPORTANT** the keyboard variant is colemak by default, which you probably dont use, edit ~/.config/labwc/environment and remove the XKB_DEFAULT_VARIANT=colemak, just removing it should make it go back to qwerty, of course you should restart the desktop for it to apply, since its a env variable
 
 use _startxfce4 --wayland_ to start from tty, your display manager will probably show a desktop entry for it tho 
+
+![Screenshot_2024-07-02_21-07-59](https://github.com/MiyaSHs/xfce4-wayland-arch/assets/124814309/ca9f03ec-0ced-483b-b9d6-465849cf54f0)
